@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<script runat="server">
+
+</script>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VYAS HOSTEL</title>
+<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Belgrano' rel='stylesheet' type='text/css'>
+<link href="css/styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <form id="form1" runat="server">
+   <header>
+	<div class="headerWrapper">
+        <div class="logo"><a href=""><img src="images/logo1.png" alt="logo"></a></div>
+        <div class="logo2"><a href=""><img src="images/logo2.png" alt="logo2"></a></div>
+        <div class="headerPic"><img src="images/images.jpg" alt="" class="picStyle"></div>
+        
+        <div class="clearfloat"></div>
+    </div>
+</header>
+<section>
+	<nav>
+      <ul id="navlist">
+            <li><a href="pro1.aspx">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="gallery.aspx">gallery</a></li>
+            <li><a href="contact.aspx">Contact</a></li>
+        </ul>
+    </nav>
+    <div class="mainContent">
+    	<asp:ContentPlaceHolder ID="cp" runat="server"></asp:ContentPlaceHolder>
+        
+    </div>
+    <div class="sidebar1">
+        <h1>VYAS HOSTEL</h1>
+        <ul>
+            <li><a href="Registration.aspx">Register here</a></li>
+            <li><a href="pro5.aspx">Infrastructure</a></li>
+            <li><a href="pro2.aspx">Facilities</a></li>
+            <li><a href="pro3.aspx">Rules</a></li>
+            <li><a href="pro4.aspx">Employes details</a></li>
+            <li><a href="">Complain</a></li>
+            <li><a href="fee.aspx">fees detail</a></li>
+            <li><a href=""></a>mess detail</li>
+            <li><a href="">feedback</a></li>
+        </ul>
+        <h3 align="center" style="color: #000080 ; text-decoration:underline; background-color:#666; margin-top:0px">Gallery</h3>
+<marquee direction="up" scrollamount="2" scrolldelay="2" width="210px" height="200px" onMouseOver="this.stop()" onMouseOut="this.start()">
+                    		<ul  type="disc" >
+                            		<li><img src="images/1.jpg" width="125" height="93" alt="LNT India"> </li>
+                                    <li><img src="images/2.jpg" width="180" height="58" alt="Smart Chip"></li>
+                                    <li><img src="images/3.jpg" width="180" height="80" alt="infosys"></li>
+                            <li><img src="images/5.jpg" width="180" height="80" alt="hp"></li>
+</ul>
+ </marquee>
+    </div>
+    <div class="clearfloat"></div>
+</section>
+<footer>
+
+</footer>
+    </form>
+</body>
+</html>

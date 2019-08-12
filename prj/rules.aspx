@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>rules</title>
+</head>
+<body>
+<h1 style="color: #6622FF; "><center><b> Hostel RULES</center></b></h1>
+
+1.The student who has been allotted a seat in the hostel (Called Hosteller) will have to compulsorily live in the hostel.
+
+<br>2.Hosteller will compulsorily sign the attendance register at 09:00 PM daily. Prior permission will be compulsory for absentees and for those who shall be out after 09:00 PM due to some important work.
+
+<br>3.Special attention will be required toward cleanliness in the hostel and it will be compulsory to use dust bin for throwing any garbittch/fruit peels, etc.
+
+<br>4.Nobody will unnecessary be either present in the hostel canteen nor will make a crowd by standing outside the canteen.
+
+<br>5.Students will neither visit the girls hostel nor will roam near by. Girls will also neither go to the boys hostels at any time nor walk through after evening meals.
+
+<br>6.It is banned to organize birthday or any other crowdy function and to play music System/Radio loudly in the room.
+<br>7.Student will have to arrange the lighting systems(like CFL, tube lights)them selves in their room. Institute will arrange lighting system in common places. General fine will be imposed on removal of bulbs/tube lights from corridors and bath rooms, etc.
+
+<br>8.Water taps, flash system and other similar facilities in the bath rooms and toilets of the hostels will be operated carefully and maintained by the students themselves
+
+<br>9.Students themselves will be responsible for the maintenance of the furniture provided by the institute, and punishment and fine will be imposed on braking the furniture intentionally.
+
+<br>10. Two daily newspapers are subscribe in the hostel, it is expected that those are kept in tact with responsibility.
+
+<br>11.It is completely prohibited to smoke, use liquor, etc. If found, severe disciplinary action will be taken.
+
+<br>12.No body will use heater or cook food in the room. It found, punishment will be imposed.
+
+<br><h2><b>EXTRA RULES FOR GIRLS HOSTELS</b></h2>
+<br>1.Girls may go out of campus from 5 to 6 PM in the evening during winters and 5 to 7 PM during summers for any important work. Disciplinary action will be taken against those girls who come back after the aforesaid timings.
+
+<br>2.Parents/Guardians of girls may visit on Saturdays and Sundays in the common room of the girls hostels. There is no provision of staying back of male guardians.
+
+<br>3.Girls are not permitted to go home without the company of parents/guardians.
+</body>
+</html>
